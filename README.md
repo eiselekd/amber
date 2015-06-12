@@ -1,3 +1,6 @@
+
+https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language
+
 The Programming Language Amber 
 ==============================
 
